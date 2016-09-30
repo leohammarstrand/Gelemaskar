@@ -1,5 +1,13 @@
 #canv{
     
-    border: 1px solid pink;
+    border: 3px solid black;
+    background-image: url(../Bilder/Background2.jpg);
+    background-size: cover;
+    
+}
+
+#wormImg{
+    
+    display: none;
     
 }
